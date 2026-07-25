@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Hi%20there,%20I'm%20Natalia%20Giraldo%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Hi%20there,%20I'm%20Natalia%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 </div>
 
 <h3 align="center">
@@ -25,7 +25,7 @@
 
 ### 🙋‍♀️ About Me
 
-<img align="right" alt="Coding GIF" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Natalia Coding" width="380" src="https://raw.githubusercontent.com/Em1li4/Em1li4/main/profile.png" />
 
 - 🎓 **Education**: Computer Science student specializing in **Artificial Intelligence, Machine Learning & Software Engineering**.
 - 🔭 **Current Focus**: Building data-driven systems, predictive models, and scalable software applications.
