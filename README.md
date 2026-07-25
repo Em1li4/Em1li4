@@ -70,5 +70,5 @@
 ---
 
 <p align="center">
-  <i>"Turning data into actionable intelligence, one model at a time."</i> ✨
+  <i>"La libertà è il solo mezzo per arrivare, mediante l'esperienza, al vero e al meglio: e non vi è libertà se non vi è la libertà dell'errore."</i> ✨
 </p>
