@@ -7,18 +7,6 @@
   💻 Computer Science Student | 🤖 AI/ML & Software Engineering Specialist
 </h3>
 
-<p align="center">
-  <a href="https://github.com/Em1li4">
-    <img src="https://komarev.com/ghpvc/?username=Em1li4&label=Profile%20Views&color=6c5ce7&style=flat-square" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/Em1li4?tab=followers">
-    <img src="https://img.shields.io/github/followers/Em1li4?label=Followers&style=flat-square&color=a29bfe" alt="Followers" />
-  </a>
-  <a href="https://github.com/Em1li4?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Em1li4?label=Total%20Stars&style=flat-square&color=fd79a8" alt="Stars" />
-  </a>
-</p>
-
 <br />
 
 ---
