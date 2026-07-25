@@ -27,20 +27,19 @@
 
 <img align="right" alt="Coding GIF" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🎓 **Education**: Computer Science student specializing in **Artificial Intelligence, Machine Learning & Software Engineering**.
-- 🔭 **Current Focus**: Building data-driven systems, predictive models, and scalable software applications.
-- 🌱 **Learning & Growing**: Expanding expertise in **Deep Learning, MLOps, and Advanced Model Selection Strategies**.
-- 👯 **Open to Collaboration**: Interested in contributing to **AI/ML projects, Open-Source Data Science tools, and Data Analytics pipelines**.
-- 💬 **Ask Me About**: Python, `scikit-learn`, Data Preprocessing, Logistic Regression, Feature Selection, and Statistical Modeling.
-- 📫 **Reach Me At**: `em1li4gilo@gmail.com`
+- 🎓 **Educación**: Estudiante de Ciencias de la Computación especializada en **Inteligencia Artificial, Machine Learning y Ingeniería de Software**.
+- 🔭 **Enfoque Actual**: Desarrollo de sistemas basados en datos, modelos predictivos y aplicaciones escalables.
+- 🌱 **Aprendiendo**: Profundizando en **Deep Learning, MLOps y Técnicas Avanzadas de Selección de Modelos**.
+- 👯 **Colaboración**: Abierta a colaborar en **proyectos de IA/ML, herramientas open-source de Data Science y pipelines de análisis**.
+- 💬 **Pregúntame sobre**: Python, `scikit-learn`, Procesamiento de Datos, Regresión Logística, Selección de Variables y Modelado Estadístico.
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Habilidades
 
-#### 💻 Programming Languages & Data Science
+#### 💻 Lenguajes de Programación
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -50,7 +49,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### 🤖 Machine Learning & Data Analytics
+#### 🤖 Machine Learning & Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
@@ -60,7 +59,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-#### 🔧 Tools & Environment
+#### 🔧 Herramientas & Entorno
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -69,35 +68,14 @@
 
 ---
 
-### 🚀 Featured Repositories
-
-| Repository | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 📊 **[Logistic-Regression-Model-Selection](https://github.com/Em1li4/Logistic-Regression-Model-Selection)** | Automated model evaluation, hyperparameter tuning ($C$), feature selection, and Superhost prediction. | `Python`, `Scikit-Learn`, `Pandas`, `Jupyter` |
-
----
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Em1li4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Em1li4&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Em1li4&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Streak" />
-</p>
-
----
-
-### 📬 Connect With Me
+### 📬 Conéctate Conmigo
 
 <p align="left">
-  <a href="mailto:em1li4gilo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-em1li4gilo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:148295178+Em1li4@users.noreply.github.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me via Email" />
   </a>
   <a href="https://github.com/Em1li4">
-    <img src="https://img.shields.io/badge/GitHub-Em1li4-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Em1li4-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
 </p>
 
